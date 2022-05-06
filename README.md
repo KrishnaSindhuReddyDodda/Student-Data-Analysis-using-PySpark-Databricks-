@@ -6,12 +6,12 @@ For this mini-project, I used student.csv as an input file that has following co
    (Data => default => create table => drop files to upload => now copy the path of this file from the bottom => Go to DBFS => File store => tables => select the      file_name which you have created).
 3) After creating my Notebook, I read this input file in the RDD(Resilient Distributed Datasets)
 4) Now I tried to perform the following analytics on this data
-     1)Show the number of students in the file
-     2) Show the total marks achieved by Female and Male students
-     3) Show the total number of students that have passed and failed (50+ marks are required to pass the course)
-     4) Show the total number of students enrolled per course
-     5) Show the total marks that students have achieved per course
-     6) Show the average marks that students have achieved per course
-     7) Show the minimum and maximum marks achieved per course
-     8) Show the average age of male and female students
+5)    a)Show the number of students in the file
+      b) Show the total marks achieved by Female and Male students
+      c) Show the total number of students that have passed and failed (50+ marks are required to pass the course)
+      d) Show the total number of students enrolled per course
+      e) Show the total marks that students have achieved per course
+      f) Show the average marks that students have achieved per course
+      g) Show the minimum and maximum marks achieved per course
+      h) Show the average age of male and female students
 
