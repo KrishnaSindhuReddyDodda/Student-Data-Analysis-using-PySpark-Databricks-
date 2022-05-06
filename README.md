@@ -7,11 +7,11 @@ For this mini-project, I used student.csv as an input file that has following co
 3) After creating my Notebook, I read this input file in the RDD(Resilient Distributed Datasets)
 4) Now I tried to perform the following analytics on this data
 5)    a)Show the number of students in the file
-      b) Show the total marks achieved by Female and Male students
-      c) Show the total number of students that have passed and failed (50+ marks are required to pass the course)
-      d) Show the total number of students enrolled per course
-      e) Show the total marks that students have achieved per course
-      f) Show the average marks that students have achieved per course
-      g) Show the minimum and maximum marks achieved per course
-      h) Show the average age of male and female students
+6)    b) Show the total marks achieved by Female and Male students
+7)    c) Show the total number of students that have passed and failed (50+ marks are required to pass the course)
+8)    d) Show the total number of students enrolled per course
+9)    e) Show the total marks that students have achieved per course
+10)   f) Show the average marks that students have achieved per course
+11)   g) Show the minimum and maximum marks achieved per course
+12)   h) Show the average age of male and female students
 
